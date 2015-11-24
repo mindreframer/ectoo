@@ -94,6 +94,7 @@ If you need to drop the test DB and set it up anew, do:
 - [ ] Hex docs
 - [ ] Handle composite primary keys?
 - [ ] Moar?
+- [ ] Travis.ci
 
 
 ## Credits and license
