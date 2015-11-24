@@ -1,5 +1,9 @@
 # Ectoo
 
+=========
+[![Build Status](https://secure.travis-ci.org/mindreframer/ectoo.svg?branch=master
+"Build Status")](https://travis-ci.org/mindreframer/ectoo)
+
 [Ecto](https://github.com/elixir-lang/ecto) is powerful, but a relatively low-level abstraction in some respects. Not all simple things are easy to do.
 
 This library aims to remedy that by building some convenient abstractions on top of Ecto.
