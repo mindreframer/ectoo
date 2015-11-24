@@ -1,6 +1,5 @@
 # Ectoo
 
-=========
 [![Build Status](https://secure.travis-ci.org/mindreframer/ectoo.svg?branch=master
 "Build Status")](https://travis-ci.org/mindreframer/ectoo)
 
